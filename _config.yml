@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+include:
+  - .well-known
