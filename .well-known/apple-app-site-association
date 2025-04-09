@@ -1,5 +1,9 @@
 {
-        "appclips": {
-                "apps": ["7UMFPW78PV.com.willowtreeapps.dev.SynchronyBankPOC.AppClip"]
-        }
+  "applinks": {
+   },
+   "webcredentials": {
+   },
+   "appclips": {
+        "apps": ["7UMFPW78PV.com.willowtreeapps.dev.SynchronyBankPOC.AppClip"]
+   }
 }
